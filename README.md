@@ -9,6 +9,6 @@ You can run this code on visual studio forms after connecting with the built dat
 You can easily run the project and sign up to create your account and access the parts that concern you as a user whether you are a resident, an owner, security or lastly a service provider.
 There are error checks all over the form to ensure you are entering the right data at the right place.
 
-Credits to Omar Nashaat
+Credits to Omar Nashaat (OmarNashat01)
 
 No liscense
